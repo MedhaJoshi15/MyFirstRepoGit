@@ -1,0 +1,3 @@
+Kaveri  100
+Sharavati 120
+Godhavari 80
